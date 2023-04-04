@@ -19,6 +19,7 @@ function App(): JSX.Element {
     {/* <SignUpScreen></SignUpScreen> */}
     {/* <LoginScreen></LoginScreen> */}
     </View>
+    
   );
     
   
